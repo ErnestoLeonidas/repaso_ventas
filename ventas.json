@@ -1,0 +1,68 @@
+[
+    {
+        "id_venta": 0,
+        "nombre_empleado": "Alan",
+        "nombre_producto": "Camiseta",
+        "valor": 20000
+    },
+    {
+        "id_venta": 1,
+        "nombre_empleado": "Ana",
+        "nombre_producto": "Zapatillas",
+        "valor": 50700
+    },
+    {
+        "id_venta": 2,
+        "nombre_empleado": "Alexis",
+        "nombre_producto": "Polera",
+        "valor": 69200
+    },
+    {
+        "id_venta": 3,
+        "nombre_empleado": "Juanita",
+        "nombre_producto": "Camiseta",
+        "valor": 64400
+    },
+    {
+        "id_venta": 4,
+        "nombre_empleado": "Alan",
+        "nombre_producto": "Polera",
+        "valor": 78300
+    },
+    {
+        "id_venta": 5,
+        "nombre_empleado": "Maria",
+        "nombre_producto": "Zapatillas",
+        "valor": 53100
+    },
+    {
+        "id_venta": 6,
+        "nombre_empleado": "Alan",
+        "nombre_producto": "Polera",
+        "valor": 68900
+    },
+    {
+        "id_venta": 7,
+        "nombre_empleado": "Alexis",
+        "nombre_producto": "Pelota",
+        "valor": 62400
+    },
+    {
+        "id_venta": 8,
+        "nombre_empleado": "Alexis",
+        "nombre_producto": "Pantalon",
+        "valor": 59000
+    },
+    {
+        "id_venta": 9,
+        "nombre_empleado": "Juanita",
+        "nombre_producto": "Zapatillas",
+        "valor": 72400
+    },
+    {
+        "id_venta": 10,
+        "nombre_empleado": "Alexis",
+        "nombre_producto": "Camiseta",
+        "valor": 62200
+    }
+]
